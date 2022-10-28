@@ -22,7 +22,7 @@ const config = {
     type: "default",
     options: {
       userName: "sa", // update me
-      password: "Database!2021", // update me
+      password: "Database2022", // update me
     },
   },
 };
